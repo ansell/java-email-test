@@ -1,0 +1,10 @@
+target/
+bin/
+.classpath
+.project
+.settings
+*~
+.~lock*
+pom.xml.versionsBackup
+catalog-v001.xml
+.Rhistory
